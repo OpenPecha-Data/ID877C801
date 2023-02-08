@@ -1,0 +1,16 @@
+id: ID877C801
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:17:38.910957
+last_modified: 2023-02-08 16:17:38.911087
+source_metadata:
+  title: Grammar of Buddhist Chinese
+  language: zh
+bases:
+  D990:
+    base_file: D990.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

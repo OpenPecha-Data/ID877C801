@@ -1,0 +1,171 @@
+id: 0429389e213c49b2b67b6db1408f2165
+annotation_type: index
+revision: '00001'
+annotations:
+  7d7f85bbea994de2b1523c3267affac1:
+    base: D990.txt
+    Chapters:
+    - title: 遍 biàn
+      span:
+        start: 0
+        end: 25
+    - title: 當 dāng
+      span:
+        start: 26
+        end: 168
+    - title: 復 fù
+      span:
+        start: 169
+        end: 216
+    - title: 今 jīn
+      span:
+        start: 217
+        end: 248
+    - title: 共 gòng
+      span:
+        start: 249
+        end: 278
+    - title: 故 gù
+      span:
+        start: 279
+        end: 392
+    - title: 何 hé
+      span:
+        start: 393
+        end: 427
+    - title: 和 hé
+      span:
+        start: 428
+        end: 449
+    - title: 令 lìng
+      span:
+        start: 450
+        end: 504
+    - title: 乃至 nǎi zhì
+      span:
+        start: 505
+        end: 577
+    - title: 如 rú
+      span:
+        start: 578
+        end: 656
+    - title: 若 ruò
+      span:
+        start: 657
+        end: 1567
+    - title: 若…若 ruò...ruò
+      span:
+        start: 1568
+        end: 1666
+    - title: 若…者 ruò…zhě
+      span:
+        start: 1667
+        end: 1849
+    - title: 隨 suí
+      span:
+        start: 1850
+        end: 1946
+    - title: 是 shì
+      span:
+        start: 1947
+        end: 1991
+    - title: 屬 shǔ
+      span:
+        start: 1992
+        end: 2042
+    - title: 所 suǒ
+      span:
+        start: 2043
+        end: 2475
+    - title: 爲 wéi
+      span:
+        start: 2476
+        end: 2559
+    - title: 爲 wèi
+      span:
+        start: 2560
+        end: 2597
+    - title: 已 yǐ
+      span:
+        start: 2598
+        end: 2713
+    - title: 以 yǐ
+      span:
+        start: 2714
+        end: 2780
+    - title: 亦 yì
+      span:
+        start: 2781
+        end: 2821
+    - title: 異 yì
+      span:
+        start: 2822
+        end: 2842
+    - title: 因 yīn
+      span:
+        start: 2843
+        end: 2963
+    - title: 應 yīng
+      span:
+        start: 2964
+        end: 3063
+    - title: 由 yóu
+      span:
+        start: 3064
+        end: 3159
+    - title: 於 yú
+      span:
+        start: 3160
+        end: 3433
+    - title: 於…中 yú zhōng
+      span:
+        start: 3434
+        end: 3506
+    - title: 與 yǔ
+      span:
+        start: 3507
+        end: 3621
+    - title: 圓 yuán
+      span:
+        start: 3622
+        end: 3668
+    - title: 在 zài
+      span:
+        start: 3669
+        end: 3808
+    - title: 在…中 zài zhōng
+      span:
+        start: 3809
+        end: 3907
+    - title: 雜 zá
+      span:
+        start: 3908
+        end: 3944
+    - title: 增上 zēng shàng
+      span:
+        start: 3945
+        end: 3969
+    - title: 者 zhě
+      span:
+        start: 3970
+        end: 4060
+    - title: 正 zhèng
+      span:
+        start: 4061
+        end: 4105
+    - title: 之 zhī
+      span:
+        start: 4106
+        end: 4356
+    - title: 中 zhōng
+      span:
+        start: 4357
+        end: 4393
+    - title: 諸 zhū
+      span:
+        start: 4394
+        end: 4415
+    - title: 性 xìng
+      span:
+        start: 4416
+        end: 4444
